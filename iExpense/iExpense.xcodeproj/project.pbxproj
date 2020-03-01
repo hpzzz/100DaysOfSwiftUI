@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B69A440240BDA190002DCD2 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B69A43F240BDA190002DCD2 /* AddView.swift */; };
 		1BC67600240AF7E200B03306 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC675FF240AF7E200B03306 /* AppDelegate.swift */; };
 		1BC67602240AF7E300B03306 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC67601240AF7E300B03306 /* SceneDelegate.swift */; };
 		1BC67604240AF7E300B03306 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC67603240AF7E300B03306 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B69A43F240BDA190002DCD2 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = SOURCE_ROOT; };
 		1BC675FC240AF7E200B03306 /* iExpense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iExpense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BC675FF240AF7E200B03306 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1BC67601240AF7E300B03306 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		1BC675FE240AF7E200B03306 /* iExpense */ = {
 			isa = PBXGroup;
 			children = (
+				1B69A43F240BDA190002DCD2 /* AddView.swift */,
 				1BC675FF240AF7E200B03306 /* AppDelegate.swift */,
 				1BC67601240AF7E300B03306 /* SceneDelegate.swift */,
 				1BC67603240AF7E300B03306 /* ContentView.swift */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B69A440240BDA190002DCD2 /* AddView.swift in Sources */,
 				1BC67600240AF7E200B03306 /* AppDelegate.swift in Sources */,
 				1BC67602240AF7E300B03306 /* SceneDelegate.swift in Sources */,
 				1BC67604240AF7E300B03306 /* ContentView.swift in Sources */,
